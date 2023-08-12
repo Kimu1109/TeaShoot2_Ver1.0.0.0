@@ -1,0 +1,3 @@
+Time:2023/08/12 14:42:50Message:Warning6:"ThisIsDeveloper"IsTrue
+Time:2023/08/12 14:43:23Message:Warning4:FPS IS VERY HIGH |FPS=480|Waitnum=26
+Time:2023/08/12 14:43:23Message:Fix1:SET WAITNUM TO DEFAULTWAITNUM |DefaultWaitNum=36
